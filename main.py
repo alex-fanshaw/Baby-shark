@@ -30,9 +30,9 @@ def verse(shark):
     print(shark + "!")
 
 def main():
-    verse("Baby shark")
-    verse("Mommy shark")
-    verse("Daddy shark")
+    verse("Baby Shark")
+    verse("Mommy Shark")
+    verse("Daddy Shark")
 
 
 if __name__ == "__main__":
